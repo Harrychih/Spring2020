@@ -27,17 +27,17 @@ You will also be asked to learn about using various software tools on your own.
 
 Programming/scripting is a significant portion of this class. Below is a list of my expectations.
 
-**Prior knowledge of Git and Unix shell is not critical; however, you will be asked to learn on your own as you go.**
-
 * _Required_: Python at a level comparable to
     * http://swcarpentry.github.io/python-novice-inflammation/
-    * http://swcarpentry.github.io/python-novice-gapminder/
+    * http://swcarpentry.github.io/python-novice-gapminder/ (including Pandas)
 
 * _Recommended_: Git at a level comparable to 
     * http://swcarpentry.github.io/git-novice/ 
     
 * _Recommended_: Unix shell at a level comparable to
     * http://swcarpentry.github.io/shell-novice/
+
+**Prior knowledge of Git and Unix shell is not critical; however, you will be asked to learn on your own as you go.**
 
 # Announcements
 
