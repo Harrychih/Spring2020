@@ -21,7 +21,7 @@ In past offerings of PSTAT 134/234, case studies included,
 
 ### Computing Tools
 
-Programming/scripting is a significant portion of this class. Below is a list of my expectations.
+Programming/scripting is a significant portion of this class. Below are my expectations.
 
 * _Required_: Python at a level comparable to
     * [http://swcarpentry.github.io/python-novice-inflammation/](http://swcarpentry.github.io/python-novice-inflammation/)
