@@ -1,4 +1,6 @@
-# Course Information
+---
+title: Course Information
+---
 
 ## Description
 
