@@ -11,6 +11,8 @@ Office: [South Hall 5514](https://goo.gl/maps/SDW89NgcescwJi1VA)
 
 Overview and use of data science tools in Python for data retrieval, analysis, visualization, reproducible research and automated report generation. Case studies will illustrate the practical use of these tools.
 
+Tentative outline:
+
 * *Week 1*: Data and uncertainty
 * *Week 2*: Data scraping, transformation, and wrangling
 * *Week 3-4*: Visualization and exploratory analysis
