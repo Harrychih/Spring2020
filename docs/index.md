@@ -12,7 +12,7 @@ In past offerings of PSTAT 134/234, case studies included,
 * Topic modeling using Yelp review data
 * Recommendation system using missing movie ratings data
 
-## PSTAT 134 vs PSTAT 234
+## PSTAT 134 vs. PSTAT 234
 
 PSTAT 234 will be focused on graduate students. You will be expected to [_learn-to-learn_](https://hbr.org/2016/03/learning-to-learn) how to apply the course topics to real applications. There will be
 
