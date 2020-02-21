@@ -37,8 +37,3 @@ Programming/scripting is a significant portion of this class. Below are my expec
     * [http://swcarpentry.github.io/python-novice-inflammation/](http://swcarpentry.github.io/python-novice-inflammation/)
     * [http://swcarpentry.github.io/python-novice-gapminder/](http://swcarpentry.github.io/python-novice-gapminder/) (including Pandas)
 
-* _Recommended_: Unix shell at a level comparable to
-    * [http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)
-
-Prior knowledge of Unix shell is not critical; however, you will be asked to learn on your own as you go.
-
