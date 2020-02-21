@@ -1,4 +1,4 @@
-theme: jekyll-theme-dinky
+remote_theme: daattali/beautiful-jekyll
 title: PSTAT 134
 description: >-
   Statistical Data Science
