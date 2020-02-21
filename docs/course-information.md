@@ -19,19 +19,6 @@ In past offerings of PSTAT 134/234, case studies included,
 * Topic modeling using Yelp review data
 * Recommendation system using missing movie ratings data
 
-### PSTAT 134 vs. PSTAT 234
-
-PSTAT 234 will be taught as a graduate student class. You will be expected to [_learn-to-learn_](https://hbr.org/2016/03/learning-to-learn) how to apply the course topics to real applications.
-
-As compared to PSTAT 134, there will be
-
-* More open-ended assigments (mini-projects)
-* More theoretical treatment of concepts and methodologies
-* Notebook interactivity (widgets and visualizations)
-* Tools and practices for research reproducibility
-
-You will also be asked to learn about using various software tools on your own (see below).
-
 ### Computing Tools
 
 Programming/scripting is a significant portion of this class. Below is a list of my expectations.
@@ -40,11 +27,8 @@ Programming/scripting is a significant portion of this class. Below is a list of
     * [http://swcarpentry.github.io/python-novice-inflammation/](http://swcarpentry.github.io/python-novice-inflammation/)
     * [http://swcarpentry.github.io/python-novice-gapminder/](http://swcarpentry.github.io/python-novice-gapminder/) (including Pandas)
 
-* _Recommended_: Git at a level comparable to 
-    * [http://swcarpentry.github.io/git-novice/](http://swcarpentry.github.io/git-novice/)
-    
 * _Recommended_: Unix shell at a level comparable to
     * [http://swcarpentry.github.io/shell-novice/](http://swcarpentry.github.io/shell-novice/)
 
-Prior knowledge of Git and Unix shell is not critical; however, you will be asked to learn on your own as you go.
+Prior knowledge of Unix shell is not critical; however, you will be asked to learn on your own as you go.
 
