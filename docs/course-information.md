@@ -31,9 +31,7 @@ In past offerings of PSTAT 134/234, case studies included,
 
 ### Computing Tools
 
-Programming/scripting is a significant portion of this class. Below are my expectations.
+Programming/scripting is a significant portion of this class. Prior knowledge of Python is not required; however, sufficient programming proficiency to self-learn the following material is required:
 
-* _Required_: Python at a level comparable to
-    * [http://swcarpentry.github.io/python-novice-inflammation/](http://swcarpentry.github.io/python-novice-inflammation/)
-    * [http://swcarpentry.github.io/python-novice-gapminder/](http://swcarpentry.github.io/python-novice-gapminder/) (including Pandas)
-
+* [http://swcarpentry.github.io/python-novice-inflammation/](http://swcarpentry.github.io/python-novice-inflammation/)
+* [http://swcarpentry.github.io/python-novice-gapminder/](http://swcarpentry.github.io/python-novice-gapminder/) (including Pandas)
