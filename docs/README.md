@@ -1,1 +1,1 @@
-Statistical Data Science (Graduate version)
+Statistical Data Science (Undergraduate)
