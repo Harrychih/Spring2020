@@ -8,4 +8,4 @@ layout: page
 <br>
 * [Install Zoom](https://ucsb.zoom.us)
 * [Find the Zoom link](assets/find-zoom-link.gif)
-* Optionally, add to your Google calendar by clicking on ![add to calendar button](assets/add-to-google-calendar.png) at the bottom right corner of the calendar
+* Optionally, add to your calendar by clicking ![add to calendar button](assets/add-to-google-calendar.png) button above
