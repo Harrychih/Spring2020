@@ -1,10 +1,4 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 title: Zoom
 layout: page
 ---
@@ -13,4 +7,5 @@ layout: page
 
 <br>
 * [Install Zoom](https://ucsb.zoom.us)
-* Add to your Google calendar by clicking on ![add to calendar button](assets/add-to-google-calendar.png)
+* [Find the Zoom link](assets/find-zoom-link.gif)
+* Optionally, add to your Google calendar by clicking on ![add to calendar button](assets/add-to-google-calendar.png) at the bottom right corner of the calendar
