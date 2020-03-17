@@ -51,6 +51,7 @@ minima:
 header_pages:
   - index.md
   - course-information.md
+  - zoom-calendar.md
 
 # Build settings
 theme: minima
