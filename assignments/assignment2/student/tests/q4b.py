@@ -1,4 +1,4 @@
-test = {   'hidden': False,
+test = {   'hidden': True,
     'name': 'q4b',
     'points': 10,
     'suites': [   {   'cases': [   {   'code': '>>> \n'
@@ -182,9 +182,10 @@ test = {   'hidden': False,
                                        'locked': False},
                                    {   'code': '>>> \n'
                                                '>>> '
-                                               'set(worstaqi.columns.to_list()) '
-                                               '- set(cols)\n'
-                                               "{'County', 'State'}",
+                                               '(set(worstaqi.columns.to_list()) '
+                                               "- set(cols)) == {'County', "
+                                               "'State'}\n"
+                                               'True',
                                        'hidden': False,
                                        'locked': False}],
                       'scored': True,
