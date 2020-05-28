@@ -1,5 +1,5 @@
 test = {   'hidden': False,
-    'name': 'q5b1',
+    'name': 'q5c1',
     'points': 4,
     'suites': [   {   'cases': [   {   'code': ">>> output1['U'].shape\n"
                                                '(16, 10)',
